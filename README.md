@@ -1,1 +1,1 @@
-# Lab-Jounral
+# Lab-Journal
